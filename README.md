@@ -1,4 +1,8 @@
-# noflo-browser-app [![Build Status](https://secure.travis-ci.org/noflo/noflo-browser-app.png?branch=master)](http://travis-ci.org/noflo/noflo-browser-app)
+# noflo-browser-app 
+
+[![Build Status](https://static-content-585768185073.s3.us-east-1.amazonaws.com/badges/all/workflow.svg)](https://github.com/easchmitz/noflo-browser-app)
+[![Build Status](https://static-content-585768185073.s3.us-east-1.amazonaws.com/badges/all/success.svg)](https://github.com/easchmitz/noflo-browser-app)
+
 
 [Hello World](http://noflojs.org/noflo-browser-app/main.html)
 
